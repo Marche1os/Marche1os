@@ -1,4 +1,8 @@
 ### Hi there 👋
+<details>
+<summary>
+  on pause now
+</summary>
 
 В качестве Android разработчика составляю табличку компетенций, чтобы процесс развития и изучения был осознанным и разумным.
 
@@ -92,7 +96,7 @@
 49. Обзор Vulkan API
 50. Обзор DirectX
 
-
+</details>
 <!--
 **Marche1os/Marche1os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
