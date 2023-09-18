@@ -10,19 +10,6 @@
 ## Android темки
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
-|               Навык                | 1<br>Юнлинг | 2<br>Падаван        | 3<br>Рыцарь-джедай     | 4<br>Мастер | 5<br>Магистр | 6<br>Магистр Йода    |
-|:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|Java и Kotlin JVM                   | ![done][done]     | ![done][done] | ![done][done] |     |   |                 |
-|Архитектурные паттерны              | ![done][done]     | ![done][done] | ![done][done] |     |   |                 |
-|OpenGL                              | ![done][done]     |               |               |     |   |                 |
-|2D и 3D графика и анимация          | ![done][done]     | ![done][done] |               |     |   |                 |
-|Gradle                              | ![done][done]     | ![done][done] |               |     |   |                 |
-|RxJava                              | ![done][done]     | ![done][done] |![done][done]  |     |   |                 |
-|Profiling                           | ![done][done]     | ![done][done] |![done][done]  |     |   |                 |
-|Возможности из ФП                   | ![done][done]     | ![done][done] |![done][done]  |     |   |                 |
-|CI/CD                               | ![done][done]     | ![done][done] |![done][done]  |     |   |                 |
-
-
 ## Interests
 
 В данный момент в фокусе следующие интересы:
@@ -43,6 +30,7 @@
 
 ## Main resources
 - https://ru.hexlet.io/
+- https://jakewharton.com/
 
 ## Мои план по темам для блога
 1. История появления технологии OpenGL
